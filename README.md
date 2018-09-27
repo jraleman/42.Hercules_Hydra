@@ -1,1 +1,3 @@
-# pewdiecat
+# 42 Hercules - Hydra
+
+## Hercules' second labour: Lernaean Hydra
